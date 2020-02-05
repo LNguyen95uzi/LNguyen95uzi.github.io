@@ -9,5 +9,7 @@ It's layout was formulated to adjust to multiple screen sizes and resolutions.
 
 I built this project to further enhance my recently acquired coding skills and to eventually showcase my work to future potential employers. I learned a lot during the past week and am glad to attempt to tie it all in to this project and to further expand on it upon learning new material within the next few weeks. 
 
+MANY MANY CHALLENGES WERE FACED: By submission time, I still could not get the layout to function correctly with the Navbar as well as the different sections on the Portfolio Page. I also have to fix the sticky footer...sigh.
+
 Thank you,
 LPN
