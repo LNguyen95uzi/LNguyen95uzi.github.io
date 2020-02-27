@@ -1,3 +1,24 @@
+#nameTitle{
+    text-align: center;
+    
+}
+.bioContact{
+    text-align: center;
+}
+.imageIcon{
+    text-align: center;
+
+}
+.header{
+    /* background-color: antiquewhite; */
+}
+.logo{
+    margin: 5px;
+}
+
+
+
+
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
@@ -59,7 +80,7 @@ nav li{
     
 }
 nav ul li a {
-    color: #337ab7;
+    color: #1217B3;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 15px;
@@ -73,8 +94,8 @@ nav ul li a {
     font-weight: 700;
     line-height: 90px;
     text-align: center;
-    color: rgb(255, 166, 32);
-    background: rgb(109, 245, 199);
+    color: #FF6319;
+    background: #000AFF;
 }
 
 /* Body Section  */
