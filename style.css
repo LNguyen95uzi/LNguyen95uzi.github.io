@@ -15,8 +15,9 @@ body {
     margin-top: 10px;
 }
 
-#aboutjumbo {
-    border-radius: .2rem;
+#aboutme {
+    border-radius: .3rem;
+    background-color: #007DB3;
 }
 
 .row {
