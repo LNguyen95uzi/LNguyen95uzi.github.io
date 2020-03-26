@@ -1,15 +1,20 @@
-# My First Portfolio
+# My First Portfolio as a Web Developer!
 
-Features:
-An About Me Page, a Contact Page, and a main Portfolio Page. 
+This is my portfolio to showcase myself and my work as a student of web development to the world!
 
-This website was constructed using bootstrap to include a constant navbar, responsive layout, respnsive images, and a sticky footer.
+[Deployed Link](https://lnguyen95uzi.github.io/)
 
-It's layout was formulated to adjust to multiple screen sizes and resolutions.
+## Info
 
-I built this project to further enhance my recently acquired coding skills and to eventually showcase my work to future potential employers. I learned a lot during the past week and am glad to attempt to tie it all in to this project and to further expand on it upon learning new material within the next few weeks. 
+This website was constructed using bootstrap to include a responsive layout, respnsive images, and a sticky footer.
 
-MANY MANY CHALLENGES WERE FACED: By submission time, I still could not get the layout to function correctly with the Navbar as well as the different sections on the Portfolio Page. I also have to fix the sticky footer...sigh.
+I built this project to further enhance my recently acquired coding skills and to eventually showcase my work to future potential employers. I learned a lot during the past week and am glad to attempt to tie it all in to this project and to further expand on it upon learning new material within the next few months. 
 
 Thank you,
 LPN
+
+## Screenshots
+
+![SC1](/assets/port1.png)
+![SC2](/assets/port2.png)
+![SC3](/assets/port3.png)
